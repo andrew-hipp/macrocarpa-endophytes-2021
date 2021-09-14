@@ -4,6 +4,7 @@ library(openxlsx)
 library(magrittr)
 library(ggplot2)
 
+## read data
 tr <- read.tree('https://raw.githubusercontent.com/andrew-hipp/macrocarpa-hybseq/master/DATA/trees/RAX.2018-10-15/RAxML_bipartitions.macrocarpa.hybseq.2018-10-15.tre')
 tr <- root(tr, grep('rubra', tr$tip.label)) %>% ladderize
 tr$tip.label <- gsub('MIR', 'MOR', tr$tip.label) #fixing one bad label
