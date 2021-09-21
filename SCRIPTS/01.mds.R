@@ -1,6 +1,6 @@
 library(ggrepel)
 
-doMDS = F
+doMDS = T
 if(doMDS) otu.mds <- metaMDS(otu, dist = 'jaccard')
 
 otu.dat <- as.data.frame(otu.mds$points)
