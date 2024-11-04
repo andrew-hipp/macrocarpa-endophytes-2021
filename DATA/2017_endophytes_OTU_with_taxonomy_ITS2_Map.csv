@@ -1,0 +1,95 @@
+BioInf_Sample,Sample_name,SPECIMEN CODE,COLLECTOR NUMBER,SPECIES,Site,state,epithet
+S001,OAK.MOR.001238,QUE001804,IA-MG-261,Quercus macrocarpa Michx.,Ames,IA,macrocarpa
+S002,OAK.MOR.001239,QUE001805,IA-MG-262,Quercus alba L.,Ames,IA,alba
+S003,OAK.MOR.001240,QUE001813,IA-MG-268,Quercus bicolor Willd.,"Bonaparte, IA",IA,bicolor
+S004,OAK.MOR.001241,QUE001814,IA-MG-269,Quercus macrocarpa Michx.,"Bonaparte, IA",IA,macrocarpa
+S005,OAK.MOR.001242,QUE001815,IA-MG-270,Quercus alba L.,"Bonaparte, IA",IA,alba
+S006,OAK.MOR.001243,QUE001819,IA-MG-274,Quercus muehlenbergii Engelm.,"Bonaparte, IA",IA,muehlenbergii
+S007,OAK.MOR.001246,QUE001841,MO-MG327,Quercus alba L.,Ha Ha Tonka State Park,MO,alba
+S008,OAK.MOR.001247,QUE001862,OK-MG281,Quercus stellata Wangenh.,Tallgrass Prairie Preserve,OK,stellata
+S009,OAK.MOR.001248,QUE001863,OK-MG282,Quercus macrocarpa Michx.,Tallgrass Prairie Preserve,OK,macrocarpa
+S010,OAK.MOR.001249,QUE001893,OK-MG362,Quercus muehlenbergii Engelm.,Red Rock Canyon State Park,OK,muehlenbergii
+S011,OAK.MOR.001250,QUE001894,OK-MG363,Quercus macrocarpa Michx.,Red Rock Canyon State Park,OK,macrocarpa
+S012,OAK.MOR.001257,QUE001783,IA-MG-239,Quercus macrocarpa Michx.,Cedar Rapids,IA,macrocarpa
+S013,OAK.MOR.001258,QUE001880,OK-MG349,Quercus macrocarpa Michx.,Tulsa,OK,macrocarpa
+S014,OAK.MOR.001259,QUE001884,OK-MG353,Quercus alba L.,Tulsa,OK,alba
+S015,OAK.MOR.001260,QUE001907,OK-MG376,Quercus macrocarpa Michx.,Norman,OK,macrocarpa
+S016,OAK.MOR.001261,QUE001937,MN-MG493,Quercus macrocarpa Michx.,Prairie Moon Nursery,MN,macrocarpa
+S017,OAK.MOR.001265,QUE001982,WI-MG538,Quercus macrocarpa Michx.,Wisconsin,WI,macrocarpa
+S018,OAK.MOR.001266,QUE002057,Minooka 2,Quercus macrocarpa Michx.,Kansas,KS,macrocarpa
+S019,OAK.MOR.001267,QUE002074,Chickenbristle 3,Quercus macrocarpa Michx.,Illinois,IL,macrocarpa
+S020,OAK.MOR.001268,QUE002075,Chickenbristle 4,Quercus alba L. ?,Illinois,IL,alba
+S021,OAK.MOR.001269,QUE002081,IL-MG602,Quercus stellata Wangenh. ?,Illinois,IL,stellata
+S022,OAK.MOR.001270,QUE002082,IL-MG603,Quercus macrocarpa Michx.,Illinois,IL,macrocarpa
+S023,OAK.MOR.001271,QUE002085,IN-MG606,Quercus macrocarpa Michx.,Indiana,IN,macrocarpa
+S024,OAK.MOR.001272,QUE002086,IN-MG607,Quercus bicolor Willd.,Indiana,IN,bicolor
+S025,OAK.MOR.001273,QUE002091,IN-MG612,Quercus alba L.,Indiana,IN,alba
+S026,OAK.MOR.001274,QUE002098,IN-MG619,Quercus bicolor Willd.,Indiana,IN,bicolor
+S027,OAK.MOR.001275,QUE002101,IN-MG622,Quercus bicolor Willd.,Indiana,IN,bicolor
+S028,OAK.MOR.001276,QUE002102,IN-MG623,Quercus macrocarpa Michx.,Indiana,IN,macrocarpa
+S029,OAK.MOR.001277,QUE002105,IN-MG626,Quercus bicolor Willd.,Indiana,IN,bicolor
+S030,OAK.MOR.001278,QUE002108,IN-MG629,Quercus alba L.,Indiana,IN,alba
+S031,OAK.MOR.001279,QUE002121,IN-MG642,Quercus alba L.,Indiana,IN,alba
+S032,OAK.MOR.001285,QUE002153,QUBI-1052,Quercus bicolor Willd.,Vermont,VT,bicolor
+S033,OAK.MOR.001286,QUE002154,QUMAC-1053,Quercus macrocarpa Michx.,Vermont,VT,macrocarpa
+S034,OAK.MOR.001287,QUE002155,QUAL-1054,Quercus alba L.,Vermont,VT,alba
+S035,OAK.MOR.001288,QUE002187,MO-MG563,Quercus alba L.,Missouri,MO,alba
+S036,OAK.MOR.001289,QUE002188,MO-MG564,Quercus stellata Wangenh.,Missouri,MO,stellata
+S037,OAK.MOR.001290,QUE002189,MO-MG565,Quercus muehlenbergii Englm.,Missouri,MO,muehlenbergii
+S038,OAK.MOR.001291,QUE002196,MO-MG572,Quercus bicolor Willd. ?,Missouri,MO,bicolor
+S039,OAK.MOR.001292,QUE002208,MO-MG584,Quercus macrocarpa Michx.,Missouri,MO,macrocarpa
+S040,OAK.MOR.001293,QUE002209,MO-MG585,Quercus stellata Wangenh.,Missouri,MO,stellata
+S041,OAK.MOR.001294,QUE002210,MO-MG586,Quercus alba L.,Missouri,MO,alba
+S042,OAK.MOR.001295,QUE002219,MO-MG595,Quercus stellata Wangenh.,Missouri,MO,stellata
+S043,OAK.MOR.001296,QUE002247,KS-MG427,Quercus muehlenbergii Engelm.,Kansas,KS,muehlenbergii
+S044,OAK.MOR.001297,QUE002250,KS-MG430,Quercus muehlenbergii Engelm.,Kansas,KS,muehlenbergii
+S045,OAK.MOR.001298,QUE002251,KS-MG431,Quercus macrocarpa Michx.,Kansas,KS,macrocarpa
+S046,OAK.MOR.001299,QUE002252,KS-MG432,Quercus stellata Wangenh.,Kansas,KS,stellata
+S047,OAK.MOR.001300,QUE002253,KS-MG433,Quercus alba L.,Kansas,KS,alba
+S048,OAK.MOR.001301,QUE002282,KS-MG462,Quercus alba L.,Kansas,KS,alba
+S049,OAK.MOR.001302,QUE002283,KS-MG463,Quercus stellata Wangenh.,Kansas,KS,stellata
+S050,OAK.MOR.001303,QUE002284,KS-MG464,Quercus macrocarpa Michx.,Kansas,KS,macrocarpa
+S051,OAK.MOR.001304,QUE002285,KS-MG465,Quercus muehlenbergii Engelm.,Kansas,KS,muehlenbergii
+S052,OAK.MOR.001305,QUE002295,KS-MG475,Quercus macrocarpa Michx.,Kansas,KS,macrocarpa
+S053,OAK.MOR.001306,QUE002302,KS-MG482,Quercus macrocarpa Michx.,Kansas,KS,macrocarpa
+S054,OAK.MOR.001307,QUE002303,KS-MG483,Quercus muehlenbergii Engelm.,Kansas,KS,muehlenbergii
+S055,OAK.MOR.001308,QUE002304,KS-MG484,Quercus muehlenbergii Engelm.,Kansas,KS,muehlenbergii
+S056,OAK.MOR.001309,QUE002326,MI-MG663,Quercus macrocarpa Michx.,Michigan,MI,macrocarpa
+S057,OAK.MOR.001310,QUE002336,MI-MG673,Quercus macrocarpa Michx.,Michigan,MI,macrocarpa
+S058,OAK.MOR.001311,QUE002337,MI-MG674,Quercus alba L.,Michigan,MI,alba
+S059,OAK.MOR.001312,QUE002355,MI-MG692,Quercus alba L.,Michigan,MI,alba
+S060,OAK.MOR.001313,QUE002356,MI-MG693,Quercus macrocarpa Michx.,Michigan,MI,macrocarpa
+S061,OAK.MOR.001314,QUE002360,MI-MG697,Quercus bicolor Willd.,Michigan,MI,bicolor
+S062,OAK.MOR.001315,QUE002361,MI-MG698,Quercus bicolor Willd.,Michigan,MI,bicolor
+S063,OAK.MOR.001316,QUE002366,WI-MG703,Quercus alba L.,Wisconsin,WI,alba
+S064,OAK.MOR.001317,QUE002367,WI-MG704,Quercus macrocarpa Michx.,Wisconsin,WI,macrocarpa
+S065,OAK.MOR.001318,QUE002399,WI-MG736,Quercus macrocarpa Michx.,Wisconsin,WI,macrocarpa
+S066,OAK.MOR.001319,QUE002400,WI-MG737,Quercus alba L.,Wisconsin,WI,alba
+S067,OAK.MOR.001320,QUE002424,MN-MG761,Quercus macrocarpa Michx.,Minnesota,MN,macrocarpa
+S068,OAK.MOR.001321,QUE002436,MN-MG773,Quercus macrocarpa Michx.,Minnesota,MN,macrocarpa
+S069,OAK.MOR.001322,QUE002471,OH-MG808,Quercus macrocarpa Michx.,Ohio,OH,macrocarpa
+S070,OAK.MOR.001323,QUE002480,OH-MG817,Quercus macrocarpa Michx.,Ohio,OH,macrocarpa
+S071,OAK.MOR.001324,QUE002481,OH-MG818,Quercus muehlenbergii Engelm.,Ohio,OH,muehlenbergii
+S072,OAK.MOR.001325,QUE002493,OH-MG830,Quercus alba L.,Ohio,OH,alba
+S073,OAK.MOR.001326,QUE002526,IL-MG863,Quercus alba L.,Illinois,IL,alba
+S074,OAK.MOR.001327,QUE002527,IL-MG864,Quercus macrocarpa Michx.,Illinois,IL,macrocarpa
+S075,OAK.MOR.001328,QUE002528,IL-MG865,Quercus bicolor Willd.,Illinois,IL,bicolor
+S076,OAK.MOR.001329,QUE002535,IL-MG872,Quercus alba L.,Illinois,IL,alba
+S077,OAK.MOR.001330,QUE002536,IL-MG873,Quercus macrocarpa Michx.,Illinois,IL,macrocarpa
+S078,OAK.MOR.001331,QUE002539,IL-MG876,Quercus bicolor Willd.,Illinois,IL,bicolor
+S079,OAK.MOR.001332,QUE002574,JCB-SD-CSP-1005,Quercus macrocarpa Michx.,South Dakota,SD,macrocarpa
+S080,OAK.MOR.001333,QUE002579,JCB-SD-US16-1010,Quercus macrocarpa Michx.,South Dakota,SD,macrocarpa
+S081,OAK.MOR.001334,QUE002585,JCB-SD-SPF-1016,Quercus macrocarpa Michx.,South Dakota,SD,macrocarpa
+S082,OAK.MOR.001335,QUE002589,JCB-SD-SPF-1020,Quercus macrocarpa Michx.,South Dakota,SD,macrocarpa
+S083,OAK.MOR.001336,QUE002363,WI-MG700,Quercus alba L.,Wisconsin,WI,alba
+S084,OAK.MOR.001337,QUE002364,WI-MG701,Quercus macrocarpa Michx.,Wisconsin,WI,macrocarpa
+S085,OAK.MOR.001338,QUE002365,WI-MG702,Quercus macrocarpa Michx.,Wisconsin,WI,macrocarpa
+S086,OAK.MOR.001339,QUE002366,WI-MG703,Quercus alba L.,Wisconsin,WI,alba
+S087,OAK.MOR.001340,QUE002367,WI-MG704,Quercus macrocarpa Michx.,Wisconsin,WI,macrocarpa
+S088,OAK.MOR.001341,QUE002368,WI-MG705,Quercus macrocarpa Michx.,Wisconsin,WI,macrocarpa
+S089,OAK.MOR.001342,QUE002369,WI-MG706,Quercus macrocarpa Michx.,Wisconsin,WI,macrocarpa
+S090,OAK.MOR.001343,QUE002370,WI-MG707,Quercus alba L.,Wisconsin,WI,alba
+S091,OAK.MOR.001344,QUE002371,WI-MG708,Quercus macrocarpa Michx.,Wisconsin,WI,macrocarpa
+S092,OAK.MOR.001345,QUE002373,WI-MG710,Quercus macrocarpa Michx.,Wisconsin,WI,macrocarpa
+S093,OAK.MOR.001346,QUE002374,WI-MG711,Quercus macrocarpa Michx.,Wisconsin,WI,macrocarpa
+S094,OAK.MOR.001347,QUE002375,WI-MG712,Quercus alba L.,Wisconsin,WI,alba
