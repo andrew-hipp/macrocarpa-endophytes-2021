@@ -8,4 +8,4 @@ row.names(dat.meta) <- dat.meta$Specimen.CODE
 dat.pk <- cbind(dat.pk, dat.meta[dat.pk$SPECIMEN.CODE,])
 fields.to.use <- which(apply(dat.pk, 2, function(x) !all(is.na(x))))
 dat.pk <- dat.pk[, fields.to.use]
-write.csv('OUT/2017_endophytes_wAllData_2024-11-04.csv')
+write.csv(dat.pk, 'OUT/2017_endophytes_wAllData_2024-11-04.csv')
